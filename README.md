@@ -1,9 +1,9 @@
 # ExamenPractico
 ## DATOS PERSONALES<br>
-**Nombre:**Jhony Omar Jiménez Cruz<br>
-**Grado:**5to Bachillerato en Ciencias y Letras con Orientación en Áreas Técnicas<br>
-**Clave:**11<br>
-**Carrera:**COMPUTACIÓN<br>
+**Nombre:** Jhony Omar Jiménez Cruz<br>
+**Grado:** 5to Bachillerato en Ciencias y Letras con Orientación en Áreas Técnicas<br>
+**Clave:** 11<br>
+**Carrera:** COMPUTACIÓN<br>
 ---
 ### ELEMENTOS UTILIZADOS
 * Plataforma GITHUB<br>
