@@ -13,6 +13,7 @@
 ---
 ### FOTO DE REFERENCIA<br>
 ![foto de cabecera](https://cdn-icons-png.flaticon.com/512/25/25231.png)<br>
+# Mi Shield ![Hello World](https://img.shields.io/badge/hello-word-pink)<br>
 ---
 ### TECNOLOGÍAS<br>
 **Descripcion:** El repositorio de Github contiene los archivos realizados en los exámenes practicos del Laboratorio II Y Reparación y Soporte Técnico realizados
