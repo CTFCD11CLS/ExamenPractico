@@ -15,5 +15,5 @@
 ![foto de cabecera](https://cdn-icons-png.flaticon.com/512/25/25231.png)<br>
 ---
 ### TECNOLOGÍAS<br>
-**Descripcion:**El repositorio de Github contiene los archivos realizados en los exámenes practicos del Laboratorio II Y Reparación y Soporte Técnico.<br>
-**Teconologias:**La tecnología utilizada en el avance del exámen fue la plataforma de Github.<br>
+**Descripcion:** El repositorio de Github contiene los archivos realizados en los exámenes practicos del Laboratorio II Y Reparación y Soporte Técnico.<br>
+**Teconologias:** La tecnología utilizada en el avance del exámen fue la plataforma de Github.<br>
