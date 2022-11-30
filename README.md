@@ -19,5 +19,5 @@
 **Descripcion:** El repositorio de Github contiene los archivos realizados en los exámenes practicos del Laboratorio II Y Reparación y Soporte Técnico realizados
 el día lunes los dos exámenes, el primero era de Laboratorio II que fue implementado con el Lenguaje SQL donde teniamos que crear las tablas con sus llaves primarias
 y después teniamos que crear las relaciones para cada una de las tablas .<br>
-**Teconologias:** La tecnología utilizada en el avance del exámen fue la plataforma de Github que nos ofrece un mejor trabajo con nuestros amigos al momento de trabajar juntos
+**Tecnologias:** La tecnología utilizada en el avance del exámen fue la plataforma de Github que nos ofrece un mejor trabajo con nuestros amigos al momento de trabajar juntos
 donde quiera que estemos nuestro trabajo lo podemos modificar.<br>
