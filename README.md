@@ -1,6 +1,6 @@
 # ExamenPractico
 ##DATOS PERSONALES<br>
-Nombre:Jhony Omar Jiménez Cruz<br>
+<s>Nombre<s>Nombre:Jhony Omar Jiménez Cruz<br>
 Grado:5to Bachillerato<br>
 Clave:11<br>
 Carrera:COMPUTACIÓN<br>
